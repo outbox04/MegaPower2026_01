@@ -1,2 +1,8 @@
-# MegaPower2026_01
-Công ty phân phối sỉ phụ kiện + thiết bị NLMT cho đại lý, thợ lắp đặt, nhà thầu điện
+## 🔗 Bản phân tích Marketing NLMT 2026 (Live Demo)
+Trang Dashboard tương tác đầy đủ 13 mô hình phân tích cho thị trường Hưng Yên (Thái Bình cũ).
+
+👉 **[XEM TẠI ĐÂY]([https://ten-user.github.io/marketing-solar-2026/](https://outbox04.github.io/MegaPower2026_01/))**
+
+---
+*Thực hiện bởi: Decaz Trần*
+*Công ty Mega Power*
